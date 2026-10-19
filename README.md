@@ -1,7 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=140&section=header&text=LILIAN%20SCHMITT&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=%C3%89TUDIANT%20EN%20INFORMATIQUE&descAlignY=64&descSize=16" alt="Lilian Schmitt" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=560&height=30&lines=D%C3%A9veloppeur+web+full-stack;Modernisation+des+outils+m%C3%A9tier;Du+besoin+au+produit+en+ligne" alt="Développeur web full-stack" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=580&height=50&lines=D%C3%A9veloppeur+web+full-stack%3BRecherche+de+stage+%C3%A0+partir+du+1er+mars+2027"
+    alt="Developpeur web full-stack - Recherche de stage à partir du 1er mars"
+  />
 </p>
 
 <p align="center">
