@@ -11,14 +11,13 @@
   <a href="https://www.linkedin.com/in/lilian-schmitt-3506362b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzgzIDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4K" alt="LinkedIn" />
   </a>
-      <a href="mailto:lilian.schmitt1@etu.univ-lorraine.fr">
+  <a href="mailto:lilian.schmitt1@etu.univ-lorraine.fr">
     <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://portfolio-schmitt.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=38bdae" alt="Portfolio" />
   </a>
   <img src="https://img.shields.io/badge/Ouvert%20aux%20offres%20de%20stage-38bdae?style=for-the-badge&labelColor=1a1b27" alt="Ouvert aux offres de stage" />
-  <img src="https://komarev.com/ghpvc/?username=LilianSCH1&style=for-the-badge&color=70a5fd&label=VUES+DU+PROFIL" alt="Vues du profil" />
 </p>
 
 <br/>
