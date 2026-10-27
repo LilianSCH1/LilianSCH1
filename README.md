@@ -112,6 +112,12 @@ Je pars du problème qu'une fonctionnalité résout, puis je la construis.
   <img height="48" src="https://skillicons.dev/icons?i=nextjs,react,angular,spring,nodejs,symfony,tailwind" alt="Next.js, React, Angular, Spring, Node.js, Symfony, Tailwind CSS" />
   <br/>
   <img height="48" src="https://skillicons.dev/icons?i=postgres,supabase,git,notion" alt="PostgreSQL, Supabase, Git, Notion" /><img height="48" src="stack-extra.svg" alt="Jira, Make" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Claude-1a1b27?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/Mistral-1a1b27?style=for-the-badge&logo=mistralai&logoColor=FA520F" alt="Mistral" />
+  <img src="https://img.shields.io/badge/Gemini-1a1b27?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Perplexity-1a1b27?style=for-the-badge&logo=perplexity&logoColor=1FB8CD" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-1a1b27?style=for-the-badge&logo=githubcopilot&logoColor=70a5fd" alt="Copilot" />
 </p>
 
 ## Activité GitHub
