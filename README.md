@@ -38,12 +38,45 @@ Je pars du problème qu'une fonctionnalité résout, puis je la construis.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>📺 <a href="https://github.com/LilianSCH1/bingezy">Bingezy</a> <img src="https://img.shields.io/badge/Scolaire%20%E2%86%92-Personnel-38bdae?style=flat-square&labelColor=e0af68" alt="Projet scolaire devenu personnel" /></h3>
+      Trouver et suivre ses séries et films dans une ambiance télé rétro : recherche par genre, époque ou plateforme, suivi épisode par épisode, alertes de nouvelles saisons et bilan de visionnage.
+      <br/>
+      <a href="https://bingezy.neoheberg.fr/">Voir le site</a>
+      <br/><br/>
+      <sub><b>JavaScript · Node.js</b></sub>
+      <p align="right"><img src="https://img.shields.io/badge/sept.%20%E2%80%93%20oct.%202026-414868?style=flat-square" alt="Septembre à octobre 2026" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧸 <a href="https://github.com/LilianSCH1/kidzy">Kidzy</a> <img src="https://img.shields.io/badge/Personnel-38bdae?style=flat-square" alt="Projet personnel" /></h3>
+      Ludothèque familiale partagée entre plusieurs familles : coffre à jouets en glisser-déposer, profils enfants et liste d'envies dont les réservations restent secrètes, en temps réel.
+      <br/>
+      <a href="https://kidzy.neoheberg.fr/">Voir le site</a>
+      <br/><br/>
+      <sub><b>Next.js · TypeScript · PostgreSQL</b></sub>
+      <p align="right"><img src="https://img.shields.io/badge/oct.%202026-414868?style=flat-square" alt="Octobre 2026" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧱 <a href="https://github.com/LilianSCH1/popzy">Popzy</a> <img src="https://img.shields.io/badge/Personnel-38bdae?style=flat-square" alt="Projet personnel" /></h3>
+      KIDZY mais simplifié pour les Funko Pop et LEGO : on tape un nom, on choisit l'image trouvée sur le web et l'objet rejoint la vitrine, enregistrée sur l'appareil.
+      <br/>
+      <a href="https://popzy.neoheberg.fr/">Voir le site</a>
+      <br/><br/>
+      <sub><b>Next.js · TypeScript · IndexedDB</b></sub>
+      <p align="right"><img src="https://img.shields.io/badge/oct.%202026-414868?style=flat-square" alt="Octobre 2026" /></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🏆 <a href="https://github.com/LilianSCH1/matchzy">Matchzy</a> <img src="https://img.shields.io/badge/Personnel-38bdae?style=flat-square" alt="Projet personnel" /></h3>
-      Gestion de tournois multisports : tableaux de bord administrateur et spectateur.
+      Gestion de tournois multisports : tableaux de bord organisateur, arbitre et spectateur offrant une vision globale du tournoi en dépend du rôle.
+      <br/>
+      <a href="https://matchzy.neoheberg.fr/">Voir le site</a>
       <br/><br/>
       <sub><b>React · TypeScript · PostgreSQL</b></sub>
       <p align="right"><img src="https://img.shields.io/badge/sept.%202026-414868?style=flat-square" alt="Septembre 2026" /></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌿 <a href="https://github.com/LilianSCH1/sites_cenca">CENCA</a> <img src="https://img.shields.io/badge/Stage-70a5fd?style=flat-square" alt="Stage" /></h3>
       Refonte d'un outil de base de données MS Access en application web. Front-end Angular, <a href="https://github.com/LilianSCH1/sites_cenca_backend">backend</a> Node.js.
@@ -51,8 +84,6 @@ Je pars du problème qu'une fonctionnalité résout, puis je la construis.
       <sub><b>Angular · Node.js · Express · PostgreSQL</b></sub>
       <p align="right"><img src="https://img.shields.io/badge/f%C3%A9vr.%20%E2%80%93%20avr.%202026-414868?style=flat-square" alt="Février à avril 2026" /></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎢 <a href="https://github.com/LilianSCH1/WikiCoaster_Symfony">WikiCoaster</a> <img src="https://img.shields.io/badge/Scolaire-e0af68?style=flat-square" alt="Projet scolaire" /></h3>
       Application web collaborative autour des montagnes russes et des parcs d'attractions.
@@ -60,6 +91,8 @@ Je pars du problème qu'une fonctionnalité résout, puis je la construis.
       <sub><b>PHP · Symfony</b></sub>
       <p align="right"><img src="https://img.shields.io/badge/nov.%202026-414868?style=flat-square" alt="Novembre 2026" /></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧩 <a href="https://github.com/LilianSCH1/SAE_DevWeb_S3">MyPulse</a> <img src="https://img.shields.io/badge/Scolaire-e0af68?style=flat-square" alt="Projet scolaire" /></h3>
       Application web de gestion et de vote pour des musiques, artistes et groupes.
@@ -67,6 +100,7 @@ Je pars du problème qu'une fonctionnalité résout, puis je la construis.
       <sub><b>PHP · JavaScript</b></sub>
       <p align="right"><img src="https://img.shields.io/badge/oct.%202025%20%E2%80%93%20janv.%202026-414868?style=flat-square" alt="Octobre 2025 à janvier 2026" /></p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -82,16 +116,14 @@ Je pars du problème qu'une fonctionnalité résout, puis je la construis.
 
 ## Activité GitHub
 <p align="center">
-  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=LilianSCH1&show_icons=true&theme=tokyonight&icon_color=38bdae&hide_border=true&include_all_commits=true&hide=stars,issues&show=prs_merged&hide_rank=true&locale=fr" alt="Statistiques GitHub" />
-  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=LilianSCH1&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=fr" alt="Langages principaux" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=LilianSCH1&show_icons=true&theme=tokyonight&icon_color=38bdae&hide_border=true&include_all_commits=true&hide=stars,issues&show=prs_merged&hide_rank=true&locale=fr&cache_seconds=21600" alt="Statistiques GitHub" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LilianSCH1&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=fr&cache_seconds=21600" alt="Langages principaux" />
 </p>
 <br/>
 
 ## Contact
 
-```
 lilian.schmitt1@etu.univ-lorraine.fr
-```
 
 
 
