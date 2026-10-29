@@ -117,7 +117,7 @@ Je pars du problème qu'une fonctionnalité résout, puis je la construis.
   <img src="https://img.shields.io/badge/Mistral-1a1b27?style=for-the-badge&logo=mistralai&logoColor=FA520F" alt="Mistral" />
   <img src="https://img.shields.io/badge/Gemini-1a1b27?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
   <img src="https://img.shields.io/badge/Perplexity-1a1b27?style=for-the-badge&logo=perplexity&logoColor=1FB8CD" alt="Perplexity" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-1a1b27?style=for-the-badge&logo=githubcopilot&logoColor=70a5fd" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Copilot-1a1b27?style=for-the-badge&logo=githubcopilot&logoColor=70a5fd" alt="Copilot" />
 </p>
 
 ## Activité GitHub
