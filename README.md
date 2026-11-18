@@ -28,8 +28,6 @@
 
 🎓 Études : BUT Informatique (IUT) puis poursuite d'études
 <br>
-🎯 Objectif : devenir chef de projet.
-<br>
 Je pars du problème qu'une fonctionnalité résout, puis je la construis.
 <br><br>
 
